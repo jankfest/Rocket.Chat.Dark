@@ -228,6 +228,7 @@ body,
 .flex-tab .user-view,
 .flex-tab .list-view,
 .contextual-bar,
+.contextual-bar-wrap,
 .rc-user-info-container {
   background-color: #2f3136;
 }
@@ -273,6 +274,7 @@ textarea,
 .rc-old #login-card .input-line input,
 .rc-old #login-card .input-line select {
   background-color: #303337;
+  color: #c2c3c5;
   border: 2px solid #505257;
   border-radius: 2px !important;
 }
@@ -732,7 +734,7 @@ code,
   background-color: transparent !important;
 }
 :root:root {
-  --flex-nav-background: #2f3136;
+  --flex-nav-background: #C0C1C2;
   --sidebar-background-light: #2f3136;
   --sidebar-background-light-hover: #282a2e;
 }
