@@ -63,7 +63,7 @@
 .rcx-box--full {
   color:#c2c3c5;
 }
-.message:hover {
+.message.active, .message:hover {
   background-color: #43454A;
 }
 .color-primary-font-color {
