@@ -52,6 +52,13 @@
   --header-title-status-color: #9a9c9f;
   --color-gray-lightest: #c2c3c5;
 }
+.contextual-bar.contextual-bar {
+  background: #2f3236;
+  color: #fff;
+  }
+.rcx-box--full {
+  color:#c2c3c5;
+}
 .color-primary-font-color {
   color: #c2c3c5;
 }
@@ -1124,3 +1131,4 @@ code,
 .reply-preview .message {
   margin-top: 0px;
 }
+
