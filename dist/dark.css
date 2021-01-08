@@ -56,6 +56,9 @@
   --header-title-status-color: #9a9c9f;
   --color-gray-lightest: #c2c3c5;
 }
+.emoji-picker.show {
+    background-color: #444;
+}
 .contextual-bar.contextual-bar {
   background: #2f3236;
   color: #fff;
