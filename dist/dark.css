@@ -56,6 +56,9 @@
   --header-title-status-color: #9a9c9f;
   --color-gray-lightest: #c2c3c5;
 }
+.rcx-\@15hfnte {
+ background-color: #2f3236;  
+}
 .message, .message .title .role-tag {
     background: transparent; 
 }
